@@ -33,7 +33,7 @@ L'analyse statistique dans la recherche IRMf présente des défis uniques en rai
 
 Le domaine a développé des méthodes sophistiquées pour répondre à ces défis, notamment diverses approches de correction des comparaisons multiples. Les taux d'erreur de la famille (FWE) et les taux de découverte fausse (FDR) représentent différentes philosophies pour contrôler les faux positifs, chacune avec ses propres compromis entre la puissance statistique et le contrôle des faux positifs. Le choix entre ces méthodes, ainsi que la sélection des seuils statistiques, peut avoir un impact dramatique sur les résultats de l'étude et leur reproductibilité.
 
-![Flux de travail d'analyse statistique dans la recherche IRMf, illustrant la complexité de la prise en compte des comparaisons multiples et des différentes méthodes de correction](images/fmri-stats.png)
+![Analyse statistique dans la recherche IRMf](images/fmri-stats.png)
 
 ## Contrôle de Qualité et Défis Techniques
 
@@ -41,7 +41,7 @@ La qualité des données IRMf est influencée par de nombreux facteurs technique
 
 Les procédures modernes de contrôle qualité sont devenues de plus en plus sophistiquées, utilisant des métriques telles que le déplacement image par image et le DVARS pour quantifier la qualité des données. Ces mesures aident les chercheurs à identifier les points de données problématiques et à prendre des décisions éclairées concernant l'inclusion et l'exclusion des données. Les évaluations du rapport signal/bruit (SNR) et les calculs du SNR temporel fournissent des informations cruciales sur la qualité et la fiabilité des données, tandis que les algorithmes de détection d'artefacts aident à identifier et corriger divers types de contamination du signal.
 
-![Défis communs et artefacts dans la recherche IRMf qui doivent être traités par des mesures de contrôle qualité](images/fmri-challenges.png)
+![Défis en recherche IRMf](images/fmri-challenges.png)
 
 ## Reproductibilité et Meilleures Pratiques
 
@@ -55,7 +55,7 @@ L'avenir de la recherche IRMf réside dans la résolution des limites actuelles 
 
 Les implications de l'amélioration de la fiabilité des études IRMf s'étendent au-delà du laboratoire. Des études IRMf plus fiables conduiront à une meilleure compréhension du fonctionnement cérébral, à des informations plus précises sur les processus cognitifs et à des applications cliniques plus efficaces. La recherche sur les différences individuelles, qui nécessite des mesures particulièrement robustes et fiables, bénéficiera de ces avancées méthodologiques.
 
-![Directions futures dans la recherche IRMf, mettant en évidence les méthodologies et les avancées technologiques émergentes](images/fmri-future.webp)
+![Futur de la recherche IRMf](images/fmri-future.webp)
 
 ## Conclusion
 
