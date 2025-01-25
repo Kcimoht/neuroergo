@@ -403,7 +403,7 @@
     "href": "bci-question.html#conclusion",
     "title": "Technologie d’Interface Cerveau-Machine",
     "section": "Conclusion",
-    "text": "Conclusion\nBien que la technologie ICM non invasive montre un grand potentiel pour les applications de communication, des limitations importantes doivent encore être surmontées. Les défis techniques dans l’acquisition et le traitement des signaux, combinés aux problèmes d’implémentation pratique, continuent de contraindre l’adoption généralisée de ces systèmes. Cependant, la recherche en cours et les avancées technologiques suggèrent que beaucoup de ces limitations peuvent être résolues grâce à des solutions innovantes et à une conception de système améliorée."
+    "text": "Conclusion\nAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
   },
   {
     "objectID": "about.html#thomas-brichart",
@@ -487,7 +487,7 @@
     "href": "fmri-question.html#références",
     "title": "Comprendre l’Analyse IRMf",
     "section": "Références",
-    "text": "Références\n\nSmith et al. (2024). “Fiabilité dans les études IRMf”\nJohnson & Brown (2023). “Puissance statistique en neuroimagerie”\nZhang et al. (2024). “Standardisation des protocoles IRMf”"
+    "text": "Références"
   },
   {
     "objectID": "bci-question.html#technologie-actuelle-et-méthodes",
@@ -529,6 +529,41 @@
     "href": "bci-question.html#références",
     "title": "Technologie d’Interface Cerveau-Machine",
     "section": "Références",
-    "text": "Références\n\nWilson et al. (2024). “Communication par ICM Non Invasive”\nLee & Garcia (2023). “Traitement du Signal dans les ICM”\nThompson et al. (2024). “Expérience Utilisateur dans les Systèmes ICM”"
+    "text": "Références\n\nReference 1\nReference 2\nReference 3"
+  },
+  {
+    "objectID": "bci-question.html#lorem-ipsum",
+    "href": "bci-question.html#lorem-ipsum",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Lorem Ipsum",
+    "text": "Lorem Ipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  {
+    "objectID": "bci-question.html#dolor-sit-amet",
+    "href": "bci-question.html#dolor-sit-amet",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Dolor Sit Amet",
+    "text": "Dolor Sit Amet\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nComposants du système ICM montrant les éléments clés des systèmes non invasifs modernes"
+  },
+  {
+    "objectID": "bci-question.html#consectetur-adipiscing",
+    "href": "bci-question.html#consectetur-adipiscing",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Consectetur Adipiscing",
+    "text": "Consectetur Adipiscing\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\n\n\n\nVisualisation des défis techniques montrant les principales limitations de la technologie ICM actuelle"
+  },
+  {
+    "objectID": "bci-question.html#nemo-enim-ipsam",
+    "href": "bci-question.html#nemo-enim-ipsam",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Nemo Enim Ipsam",
+    "text": "Nemo Enim Ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet."
+  },
+  {
+    "objectID": "bci-question.html#ut-enim-ad-minima",
+    "href": "bci-question.html#ut-enim-ad-minima",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Ut Enim Ad Minima",
+    "text": "Ut Enim Ad Minima\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.\n\n\n\nDéveloppements futurs de l’ICM mettant en évidence les solutions et technologies émergentes"
   }
 ]
