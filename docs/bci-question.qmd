@@ -1,0 +1,71 @@
+---
+title: "The Brain-Computer Interface Debate"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.content-block style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/bci-banner.jpg'); background-size: cover; color: white; padding: 4rem 2rem; text-align: center; margin-bottom: 2rem;"}
+# The Future of Brain-Computer Interfaces
+Exploring the intersection of mind and machine
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+## Opportunities 🚀
+
+BCIs offer groundbreaking possibilities:
+
+- Restoring movement in paralyzed patients
+- Enhanced communication abilities
+- Treatment of neurological disorders
+- Augmented human capabilities
+
+![BCI application demonstration](images/bci-application.jpg)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+## Challenges 🛠️
+
+Key concerns and challenges:
+
+- Safety and biocompatibility
+- Long-term stability
+- Ethical considerations
+- Data privacy and security
+
+![BCI technical challenges](images/bci-challenges.jpg)
+:::
+:::
+
+:::
+
+::: {.content-block}
+## Current Developments
+
+### 1. Invasive vs. Non-invasive BCIs
+Comparing different approaches and their applications.
+
+### 2. Commercial Applications
+The rise of consumer-grade BCI devices and their implications.
+
+### 3. Ethical Considerations
+Addressing privacy, consent, and identity concerns.
+
+![BCI research and development](images/bci-research.jpg)
+:::
+
+::: {.content-block}
+## Emerging Technologies
+
+- High-resolution neural interfaces
+- Wireless implementations
+- AI integration
+- Therapeutic applications
+
+![Future BCI technologies](images/bci-future.jpg)
+:::

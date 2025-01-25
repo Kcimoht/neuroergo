@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - "images/*"
+
+website:
+  title: "Neuroscience Questions"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: fmri-question.qmd
+        text: "fMRI Analysis"
+      - href: bci-question.qmd
+        text: "BCI Technology"
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "Class Project - Winter 2025"
+    right:
+      - icon: github
+        href: https://github.com/
+    background: light
+
+format:
+  html:
+    theme:
+      light: [litera, custom.scss]
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+    page-layout: full

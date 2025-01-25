@@ -1,0 +1,93 @@
+---
+title: "Understanding fMRI Analysis"
+subtitle: "How reliable are fMRI studies in cognitive neuroscience?"
+format:
+  html:
+    css: styles.css
+---
+
+::: {.content-block style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/fmri-banner.jpg'); background-size: cover; color: white; padding: 4rem 2rem; text-align: center; margin-bottom: 2rem;"}
+# Reliability of fMRI Studies
+Examining the methodological foundations of cognitive neuroscience research
+:::
+
+::: {.content-block}
+## Research Question
+
+How reliable are fMRI studies in cognitive neuroscience, and what factors influence their reproducibility?
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+## Methodology Overview 🔬
+
+Key aspects of fMRI research methodology:
+
+- Data acquisition protocols
+- Statistical analysis methods
+- Signal processing techniques
+- Experimental design considerations
+
+![fMRI data processing pipeline](images/fmri-pipeline.jpg)
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+## Key Findings 📊
+
+Research indicates that reliability depends on:
+
+- Sample size and statistical power
+- Analysis pipeline choices
+- Correction for multiple comparisons
+- Standardization of procedures
+
+![Statistical analysis in fMRI](images/fmri-stats.jpg)
+:::
+:::
+
+:::
+
+::: {.content-block}
+## Analysis
+
+### Statistical Considerations
+- Multiple comparison problems
+- Effect size estimation
+- Power analysis in fMRI studies
+
+### Methodological Challenges
+- Head motion artifacts
+- Physiological noise
+- Scanner differences
+- Analysis software variations
+
+![Challenges in fMRI research](images/fmri-challenges.jpg)
+:::
+
+::: {.content-block}
+## Conclusions
+
+Based on current research:
+- Reliability varies across different types of studies
+- Larger sample sizes generally improve reliability
+- Standardized protocols enhance reproducibility
+- Pre-registration and data sharing are crucial
+
+### Recommendations
+- Use of standardized protocols
+- Increased sample sizes
+- Better reporting practices
+- Open data sharing
+
+![Future directions in fMRI research](images/fmri-future.jpg)
+:::
+
+## References
+
+1. Smith et al. (2024). "Reliability in fMRI Studies"
+2. Johnson & Brown (2023). "Statistical Power in Neuroimaging"
+3. Zhang et al. (2024). "Standardization of fMRI Protocols"

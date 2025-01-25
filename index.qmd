@@ -1,0 +1,75 @@
+---
+title: "Neuroscience Research Questions"
+subtitle: "A Class Project Exploring Current Topics in Neuroscience"
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 300px
+---
+
+[![](images/brain-banner.jpg)]{.hidden}
+
+::: {.content-block style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/brain-banner.jpg'); background-size: cover; color: white; padding: 4rem 2rem; text-align: center; margin-bottom: 2rem;"}
+# Exploring Questions in Modern Neuroscience
+A deep dive into current research methodologies and technologies
+:::
+
+::: {.content-block}
+## About This Project 🧠
+
+This website presents my class project exploring two important questions in modern neuroscience. Through literature review and analysis, I investigate the reliability of fMRI studies and the limitations of non-invasive BCIs.
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### fMRI Research Question 🔍
+How reliable are fMRI studies in cognitive neuroscience, and what factors influence their reproducibility?
+
+[Explore Analysis →](/fmri-question.html){.btn .btn-primary}
+:::
+:::
+
+::: {.g-col-12 .g-col-md-6}
+::: {.card}
+### BCI Research Question 🤖
+What are the current limitations of non-invasive brain-computer interfaces for communication purposes?
+
+[Explore Analysis →](/bci-question.html){.btn .btn-primary}
+:::
+:::
+
+:::
+
+::: {.content-block}
+## Project Overview
+
+This project aims to:
+
+- Analyze current research methodologies
+
+- Evaluate technological limitations
+
+- Examine reliability factors
+
+- Discuss future research directions
+
+:::
+
+::: {.content-block}
+## Course Information
+
+This website was created as part of the [Course Name] at [University Name], Winter 2025.
+
+### Project Objectives
+- Critical analysis of scientific literature
+  
+- Understanding research methodologies
+
+- Clear presentation of findings
+
+- Evidence-based conclusions
+:::
