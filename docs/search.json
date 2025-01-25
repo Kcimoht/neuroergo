@@ -289,7 +289,7 @@
   {
     "objectID": "fmri-question.html#introduction",
     "href": "fmri-question.html#introduction",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Introduction",
     "text": "Introduction\nL’Imagerie par Résonance Magnétique fonctionnelle (IRMf) a révolutionné notre compréhension du cerveau humain, offrant des aperçus sans précédent de l’activité neuronale et des processus cognitifs. Cependant, à mesure que le domaine des neurosciences cognitives évolue, une question critique a émergé : Quelle est la fiabilité des études IRMf, et quels facteurs influencent leur reproductibilité ? Cette question est devenue de plus en plus pressante alors que le domaine fait face à une crise plus large de réplication en science, poussant les chercheurs à examiner et renforcer les fondements méthodologiques de leur travail.\nLa fiabilité des études IRMf n’est pas simplement une préoccupation académique mais a des implications profondes pour notre compréhension du fonctionnement cérébral, les applications cliniques et l’avancement des neurosciences dans leur ensemble. Des méta-analyses récentes et des études à grande échelle ont mis en évidence divers défis dans la recherche IRMf, des considérations statistiques aux variations méthodologiques, qui peuvent avoir un impact significatif sur la reproductibilité des résultats."
   },
@@ -331,7 +331,7 @@
   {
     "objectID": "fmri-question.html#conclusion",
     "href": "fmri-question.html#conclusion",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Conclusion",
     "text": "Conclusion\nLa fiabilité des études IRMf reste une préoccupation critique en neurosciences cognitives, mais le domaine a réalisé des progrès importants pour relever les défis clés. Grâce à une attention minutieuse à la conception de l’étude, à la mise en œuvre de mesures de contrôle qualité robustes et à l’adoption de procédures standardisées, les chercheurs peuvent améliorer la fiabilité et la reproductibilité de leurs résultats. À mesure que le domaine continue d’évoluer, l’intégration de nouvelles avancées technologiques avec des pratiques méthodologiques rigoureuses sera cruciale pour maintenir et améliorer la valeur scientifique de la recherche IRMf."
   },
@@ -401,7 +401,7 @@
   {
     "objectID": "bci-question.html#conclusion",
     "href": "bci-question.html#conclusion",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Conclusion",
     "text": "Conclusion\nAt vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."
   },
@@ -422,21 +422,21 @@
   {
     "objectID": "index.html#à-propos-de-ce-projet",
     "href": "index.html#à-propos-de-ce-projet",
-    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "title": "Explorer les Questions en Neuro-Ergonomie",
     "section": "À Propos de ce Projet 🧠",
     "text": "À Propos de ce Projet 🧠\nCe site web présente mon projet de cours explorant deux questions importantes en neuro-ergonomie. À travers une revue de littérature et une analyse, j’étudie la fiabilité des études IRMf et les limites des ICM non invasives."
   },
   {
     "objectID": "index.html#vue-densemble-du-projet",
     "href": "index.html#vue-densemble-du-projet",
-    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "title": "Explorer les Questions en Neuro-Ergonomie",
     "section": "Vue d’Ensemble du Projet",
     "text": "Vue d’Ensemble du Projet\nCe projet vise à :\n\nAnalyser les méthodologies de recherche actuelles\nÉvaluer les limites technologiques\nExaminer les facteurs de fiabilité\nDiscuter les orientations futures de la recherche"
   },
   {
     "objectID": "index.html#informations-sur-le-cours",
     "href": "index.html#informations-sur-le-cours",
-    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "title": "Explorer les Questions en Neuro-Ergonomie",
     "section": "Informations sur le Cours",
     "text": "Informations sur le Cours\nCe site web a été créé dans le cadre du [Nom du Cours] à [Nom de l’Université], hiver 2025.\n\nObjectifs du Projet\n\nAnalyse critique de la littérature scientifique\nCompréhension des méthodologies de recherche\nPrésentation claire des résultats\nConclusions basées sur des preuves"
   },
@@ -450,42 +450,42 @@
   {
     "objectID": "fmri-question.html#fondements-méthodologiques",
     "href": "fmri-question.html#fondements-méthodologiques",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Fondements Méthodologiques",
     "text": "Fondements Méthodologiques\nLa base de la recherche IRMf fiable réside dans sa rigueur méthodologique, en commençant par l’acquisition des données. Les protocoles IRMf modernes capturent généralement des volumes cérébraux toutes les 2-3 secondes, avec des résolutions spatiales d’environ 2-3mm³. Ces paramètres représentent un équilibre soigneux entre la précision temporelle et spatiale, tout en tenant compte des contraintes physiologiques du signal BOLD (Blood Oxygen Level Dependent). Une session de balayage typique dure entre 30 et 60 minutes, pendant laquelle le mouvement du participant doit être contrôlé avec une précision submillimétrique – une exigence qui pose des défis techniques et pratiques importants.\nLe pipeline de traitement des données IRMf est complexe et multétape, chaque étape pouvant introduire de la variabilité dans les résultats finaux. Les données brutes subissent plusieurs étapes de prétraitement, notamment la correction du mouvement pour tenir compte du mouvement de la tête du participant, la correction du temps de coupe pour ajuster la nature séquentielle de l’acquisition d’images et la normalisation spatiale pour permettre la comparaison entre les participants. Le choix et l’ordre de ces étapes de prétraitement, ainsi que leurs paramètres spécifiques, peuvent avoir un impact significatif sur les résultats finaux et leur fiabilité.\n\n\n\nUn pipeline de traitement des données IRMf typique, montrant la progression des données brutes à l’analyse statistique finale"
   },
   {
     "objectID": "fmri-question.html#considérations-statistiques-et-défis",
     "href": "fmri-question.html#considérations-statistiques-et-défis",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Considérations Statistiques et Défis",
     "text": "Considérations Statistiques et Défis\nL’analyse statistique dans la recherche IRMf présente des défis uniques en raison du problème de comparaisons multiples massives inhérent à l’analyse de centaines de milliers de voxels simultanément. Les meilleures pratiques actuelles recommandent un effectif minimum de 20 participants pour les études de base, bien que ce nombre devrait être substantiellement plus élevé pour les effets plus subtils ou lors de l’étude des différences individuelles. Les tailles d’effet dans la littérature ont souvent été surestimées, en partie en raison du biais de publication et de la tendance à ne rapporter que les résultats significatifs des analyses exploratoires.\nLe domaine a développé des méthodes sophistiquées pour répondre à ces défis, notamment diverses approches de correction des comparaisons multiples. Les taux d’erreur de la famille (FWE) et les taux de découverte fausse (FDR) représentent différentes philosophies pour contrôler les faux positifs, chacune avec ses propres compromis entre la puissance statistique et le contrôle des faux positifs. Le choix entre ces méthodes, ainsi que la sélection des seuils statistiques, peut avoir un impact dramatique sur les résultats de l’étude et leur reproductibilité.\n\n\n\nFlux de travail d’analyse statistique dans la recherche IRMf, illustrant la complexité de la prise en compte des comparaisons multiples et des différentes méthodes de correction"
   },
   {
     "objectID": "fmri-question.html#contrôle-de-qualité-et-défis-techniques",
     "href": "fmri-question.html#contrôle-de-qualité-et-défis-techniques",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Contrôle de Qualité et Défis Techniques",
     "text": "Contrôle de Qualité et Défis Techniques\nLa qualité des données IRMf est influencée par de nombreux facteurs techniques qui doivent être soigneusement surveillés et contrôlés. Le signal BOLD lui-même est une mesure indirecte de l’activité neuronale, médiée par des mécanismes complexes de couplage neurovasculaire. Cette relation est encore compliquée par diverses sources de bruit, notamment les signaux physiologiques (comme les cycles cardiaques et respiratoires), les artefacts du scanner et les mouvements des participants.\nLes procédures modernes de contrôle qualité sont devenues de plus en plus sophistiquées, utilisant des métriques telles que le déplacement image par image et le DVARS pour quantifier la qualité des données. Ces mesures aident les chercheurs à identifier les points de données problématiques et à prendre des décisions éclairées concernant l’inclusion et l’exclusion des données. Les évaluations du rapport signal/bruit (SNR) et les calculs du SNR temporel fournissent des informations cruciales sur la qualité et la fiabilité des données, tandis que les algorithmes de détection d’artefacts aident à identifier et corriger divers types de contamination du signal.\n\n\n\nDéfis communs et artefacts dans la recherche IRMf qui doivent être traités par des mesures de contrôle qualité"
   },
   {
     "objectID": "fmri-question.html#reproductibilité-et-meilleures-pratiques",
     "href": "fmri-question.html#reproductibilité-et-meilleures-pratiques",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Reproductibilité et Meilleures Pratiques",
     "text": "Reproductibilité et Meilleures Pratiques\nLa reproductibilité des études IRMf peut être quantifiée à l’aide de diverses métriques, notamment les coefficients de corrélation intraclasse (ICC), la fiabilité test-retest et les mesures de fiabilité de la moitié divisée. Ces métriques fournissent des informations importantes sur la stabilité et la fiabilité des mesures IRMf au fil du temps et selon différentes approches d’analyse. Les techniques de validation croisée aident à garantir que les résultats sont robustes et généralisables au-delà de l’échantillon spécifique étudié.\nPour améliorer la reproductibilité, le domaine a développé plusieurs meilleures pratiques. La préinscription des plans d’analyse aide à prévenir le p-hacking et garantit la transparence dans la communication des décisions analytiques. Les pipelines de prétraitement standardisés, tels que fMRIPrep, réduisent la flexibilité analytique et améliorent la cohérence entre les études. L’adoption de formats de données standardisés (comme BIDS) et l’accent croissant sur le partage de données ont rendu plus facile pour les chercheurs de valider et de construire sur les résultats précédents."
   },
   {
     "objectID": "fmri-question.html#directions-futures-et-implications",
     "href": "fmri-question.html#directions-futures-et-implications",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Directions Futures et Implications",
     "text": "Directions Futures et Implications\nL’avenir de la recherche IRMf réside dans la résolution des limites actuelles tout en exploitant les avancées technologiques et méthodologiques. Les études de validation multisites deviennent plus courantes, aidant à établir la généralisabilité des résultats à travers différents environnements de balayage. Les approches d’apprentissage automatique offrent de nouvelles façons d’analyser les données IRMf, pouvant potentiellement identifier des modèles que les approches statistiques traditionnelles pourraient manquer. Les procédures de contrôle qualité automatisées sont en cours de développement pour garantir une qualité de données cohérente sur de grandes bases de données.\nLes implications de l’amélioration de la fiabilité des études IRMf s’étendent au-delà du laboratoire. Des études IRMf plus fiables conduiront à une meilleure compréhension du fonctionnement cérébral, à des informations plus précises sur les processus cognitifs et à des applications cliniques plus efficaces. La recherche sur les différences individuelles, qui nécessite des mesures particulièrement robustes et fiables, bénéficiera de ces avancées méthodologiques.\n\n\n\nDirections futures dans la recherche IRMf, mettant en évidence les méthodologies et les avancées technologiques émergentes"
   },
   {
     "objectID": "fmri-question.html#références",
     "href": "fmri-question.html#références",
-    "title": "Comprendre l’Analyse IRMf",
+    "title": "Fiabilité des Études IRMf",
     "section": "Références",
     "text": "Références"
   },
@@ -527,42 +527,42 @@
   {
     "objectID": "bci-question.html#références",
     "href": "bci-question.html#références",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Références",
     "text": "Références\n\n[1] Reference 1\n[2] Reference 2\n[3] Reference 3"
   },
   {
     "objectID": "bci-question.html#lorem-ipsum",
     "href": "bci-question.html#lorem-ipsum",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Lorem Ipsum",
     "text": "Lorem Ipsum\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
   },
   {
     "objectID": "bci-question.html#dolor-sit-amet",
     "href": "bci-question.html#dolor-sit-amet",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Dolor Sit Amet",
     "text": "Dolor Sit Amet\nDuis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n\n\n\nComposants du système ICM montrant les éléments clés des systèmes non invasifs modernes"
   },
   {
     "objectID": "bci-question.html#consectetur-adipiscing",
     "href": "bci-question.html#consectetur-adipiscing",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Consectetur Adipiscing",
     "text": "Consectetur Adipiscing\nSed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.\n\n\n\nVisualisation des défis techniques montrant les principales limitations de la technologie ICM actuelle"
   },
   {
     "objectID": "bci-question.html#nemo-enim-ipsam",
     "href": "bci-question.html#nemo-enim-ipsam",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Nemo Enim Ipsam",
     "text": "Nemo Enim Ipsam\nNemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet."
   },
   {
     "objectID": "bci-question.html#ut-enim-ad-minima",
     "href": "bci-question.html#ut-enim-ad-minima",
-    "title": "Technologie d’Interface Cerveau-Machine",
+    "title": "Communication par ICM Non Invasive",
     "section": "Ut Enim Ad Minima",
     "text": "Ut Enim Ad Minima\nUt enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.\n\n\n\nDéveloppements futurs de l’ICM mettant en évidence les solutions et technologies émergentes"
   }

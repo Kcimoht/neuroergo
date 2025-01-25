@@ -5,7 +5,7 @@ project:
     - "images/*"
 
 website:
-  title: "Questions de Neuro-Ergonomie"
+  title: "Projet de Neuro-Ergonomie"
   navbar:
     background: primary
     search: true
@@ -20,9 +20,6 @@ website:
         text: À propos
   page-footer:
     left: "Neuro-Ergonomie - Hiver 2025"
-    right:
-      - icon: github
-        href: https://github.com/
     background: light
 
 format:

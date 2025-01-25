@@ -1,6 +1,5 @@
 ---
-title: "Questions de Recherche en Neuro-Ergonomie"
-subtitle: "Un Projet de Cours Explorant les Sujets en Neuro-Ergonomie"
+pagetitle: "Questions de Recherche en Neuro-Ergonomie"
 format:
   html:
     grid:

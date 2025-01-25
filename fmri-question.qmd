@@ -1,6 +1,5 @@
 ---
-title: "Comprendre l'Analyse IRMf"
-subtitle: "Quelle est la fiabilité des études IRMf en neurosciences cognitives ?"
+pagetitle: "Comprendre l'Analyse IRMf"
 format:
   html:
     css: styles.css
@@ -63,4 +62,3 @@ Les implications de l'amélioration de la fiabilité des études IRMf s'étenden
 La fiabilité des études IRMf reste une préoccupation critique en neurosciences cognitives, mais le domaine a réalisé des progrès importants pour relever les défis clés. Grâce à une attention minutieuse à la conception de l'étude, à la mise en œuvre de mesures de contrôle qualité robustes et à l'adoption de procédures standardisées, les chercheurs peuvent améliorer la fiabilité et la reproductibilité de leurs résultats. À mesure que le domaine continue d'évoluer, l'intégration de nouvelles avancées technologiques avec des pratiques méthodologiques rigoureuses sera cruciale pour maintenir et améliorer la valeur scientifique de la recherche IRMf.
 
 ## Références
-

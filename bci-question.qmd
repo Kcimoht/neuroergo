@@ -1,6 +1,5 @@
 ---
-title: "Technologie d'Interface Cerveau-Machine"
-subtitle: "Quelles sont les limitations actuelles des ICM non invasives pour la communication ?"
+pagetitle: "Technologie des Interfaces Cerveau-Machine"
 format:
   html:
     css: styles.css
