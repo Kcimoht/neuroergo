@@ -1,6 +1,6 @@
 ---
-title: "Neuroscience Research Questions"
-subtitle: "A Class Project Exploring Current Topics in Neuroscience"
+title: "Questions de Recherche en Neuro-Ergonomie"
+subtitle: "Un Projet de Cours Explorant les Sujets en Neuro-Ergonomie"
 format:
   html:
     grid:
@@ -12,64 +12,64 @@ format:
 [![](images/brain-banner.jpg)]{.hidden}
 
 ::: {.content-block style="background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('images/brain-banner.jpg'); background-size: cover; color: white; padding: 4rem 2rem; text-align: center; margin-bottom: 2rem;"}
-# Exploring Questions in Modern Neuroscience
-A deep dive into current research methodologies and technologies
+# Explorer les Questions en Neuro-Ergonomie
+Une analyse approfondie des méthodologies et technologies actuelles
 :::
 
 ::: {.content-block}
-## About This Project 🧠
+## À Propos de ce Projet 🧠
 
-This website presents my class project exploring two important questions in modern neuroscience. Through literature review and analysis, I investigate the reliability of fMRI studies and the limitations of non-invasive BCIs.
+Ce site web présente mon projet de cours explorant deux questions importantes en neuro-ergonomie. À travers une revue de littérature et une analyse, j'étudie la fiabilité des études IRMf et les limites des ICM non invasives.
 :::
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
-### fMRI Research Question 🔍
-How reliable are fMRI studies in cognitive neuroscience, and what factors influence their reproducibility?
+### Question de Recherche IRMf 🔍
+Quelle est la fiabilité des études IRMf en neurosciences cognitives, et quels facteurs influencent leur reproductibilité ?
 
-[Explore Analysis →](/fmri-question.html){.btn .btn-primary}
+[En savoir plus...](/fmri-question.html){.btn .btn-primary}
 :::
 :::
 
 ::: {.g-col-12 .g-col-md-6}
 ::: {.card}
-### BCI Research Question 🤖
-What are the current limitations of non-invasive brain-computer interfaces for communication purposes?
+### Question de Recherche ICM 🤖
+Quelles sont les principales limitations des interfaces cerveau-machine non invasives actuelles ?
 
-[Explore Analysis →](/bci-question.html){.btn .btn-primary}
+[En savoir plus...](/bci-question.html){.btn .btn-primary}
 :::
 :::
 
 :::
 
 ::: {.content-block}
-## Project Overview
+## Vue d'Ensemble du Projet
 
-This project aims to:
+Ce projet vise à :
 
-- Analyze current research methodologies
+- Analyser les méthodologies de recherche actuelles
 
-- Evaluate technological limitations
+- Évaluer les limites technologiques
 
-- Examine reliability factors
+- Examiner les facteurs de fiabilité
 
-- Discuss future research directions
+- Discuter les orientations futures de la recherche
 
 :::
 
 ::: {.content-block}
-## Course Information
+## Informations sur le Cours
 
-This website was created as part of the [Course Name] at [University Name], Winter 2025.
+Ce site web a été créé dans le cadre du [Nom du Cours] à [Nom de l'Université], hiver 2025.
 
-### Project Objectives
-- Critical analysis of scientific literature
+### Objectifs du Projet
+- Analyse critique de la littérature scientifique
   
-- Understanding research methodologies
+- Compréhension des méthodologies de recherche
 
-- Clear presentation of findings
+- Présentation claire des résultats
 
-- Evidence-based conclusions
+- Conclusions basées sur des preuves
 :::

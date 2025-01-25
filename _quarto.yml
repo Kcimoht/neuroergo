@@ -5,21 +5,21 @@ project:
     - "images/*"
 
 website:
-  title: "Neuroscience Questions"
+  title: "Questions de Neuro-Ergonomie"
   navbar:
     background: primary
     search: true
     left:
       - href: index.qmd
-        text: Home
+        text: Accueil
       - href: fmri-question.qmd
-        text: "fMRI Analysis"
+        text: "Analyse IRMf"
       - href: bci-question.qmd
-        text: "BCI Technology"
+        text: "Technologie ICM"
       - href: about.qmd
-        text: About
+        text: À propos
   page-footer:
-    left: "Class Project - Winter 2025"
+    left: "Neuro-Ergonomie - Hiver 2025"
     right:
       - icon: github
         href: https://github.com/

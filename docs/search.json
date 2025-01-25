@@ -16,9 +16,9 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "À Propos",
     "section": "",
-    "text": "I’m passionate about creating and sharing interesting content. This space is where I document my journey and share my experiences with you."
+    "text": "Email: mon.nom@gmail.com\nLinkedIn: Mon Nom"
   },
   {
     "objectID": "about.html#about-me",
@@ -142,21 +142,21 @@
   {
     "objectID": "index.html#about-this-project",
     "href": "index.html#about-this-project",
-    "title": "Neuroscience Research Questions",
+    "title": "Neuro-Ergonomy Research Questions",
     "section": "About This Project 🧠",
-    "text": "About This Project 🧠\nThis website presents my class project exploring two important questions in modern neuroscience. Through literature review and analysis, I investigate the reliability of fMRI studies and the limitations of non-invasive BCIs."
+    "text": "About This Project 🧠\nThis website presents my class project exploring two important questions in neuro-ergonomy. Through literature review and analysis, I investigate the reliability of fMRI studies and the limitations of non-invasive BCIs."
   },
   {
     "objectID": "index.html#project-overview",
     "href": "index.html#project-overview",
-    "title": "Neuroscience Research Questions",
+    "title": "Neuro-Ergonomy Research Questions",
     "section": "Project Overview",
     "text": "Project Overview\nThis project aims to:\n\nAnalyze current research methodologies\nEvaluate technological limitations\nExamine reliability factors\nDiscuss future research directions"
   },
   {
     "objectID": "index.html#course-information",
     "href": "index.html#course-information",
-    "title": "Neuroscience Research Questions",
+    "title": "Neuro-Ergonomy Research Questions",
     "section": "Course Information",
     "text": "Course Information\nThis website was created as part of the [Course Name] at [University Name], Winter 2025.\n\nProject Objectives\n\nCritical analysis of scientific literature\nUnderstanding research methodologies\nClear presentation of findings\nEvidence-based conclusions"
   },
@@ -289,9 +289,9 @@
   {
     "objectID": "fmri-question.html#introduction",
     "href": "fmri-question.html#introduction",
-    "title": "Understanding fMRI Analysis",
+    "title": "Comprendre l’Analyse IRMf",
     "section": "Introduction",
-    "text": "Introduction\nFunctional Magnetic Resonance Imaging (fMRI) has revolutionized our understanding of the human brain, offering unprecedented insights into neural activity and cognitive processes. However, as the field of cognitive neuroscience matures, a critical question has emerged: How reliable are fMRI studies, and what factors influence their reproducibility? This question has become increasingly pressing as the field grapples with the broader replication crisis in science, prompting researchers to examine and strengthen the methodological foundations of their work.\nThe reliability of fMRI studies is not merely an academic concern but has profound implications for our understanding of brain function, clinical applications, and the advancement of neuroscience as a whole. Recent meta-analyses and large-scale replication attempts have highlighted various challenges in fMRI research, from statistical considerations to methodological variations, that can significantly impact the reproducibility of findings."
+    "text": "Introduction\nL’Imagerie par Résonance Magnétique fonctionnelle (IRMf) a révolutionné notre compréhension du cerveau humain, offrant des aperçus sans précédent de l’activité neuronale et des processus cognitifs. Cependant, à mesure que le domaine des neurosciences cognitives évolue, une question critique a émergé : Quelle est la fiabilité des études IRMf, et quels facteurs influencent leur reproductibilité ? Cette question est devenue de plus en plus pressante alors que le domaine fait face à une crise plus large de réplication en science, poussant les chercheurs à examiner et renforcer les fondements méthodologiques de leur travail.\nLa fiabilité des études IRMf n’est pas simplement une préoccupation académique mais a des implications profondes pour notre compréhension du fonctionnement cérébral, les applications cliniques et l’avancement des neurosciences dans leur ensemble. Des méta-analyses récentes et des études à grande échelle ont mis en évidence divers défis dans la recherche IRMf, des considérations statistiques aux variations méthodologiques, qui peuvent avoir un impact significatif sur la reproductibilité des résultats."
   },
   {
     "objectID": "fmri-question.html#methodological-foundations",
@@ -331,9 +331,9 @@
   {
     "objectID": "fmri-question.html#conclusion",
     "href": "fmri-question.html#conclusion",
-    "title": "Understanding fMRI Analysis",
+    "title": "Comprendre l’Analyse IRMf",
     "section": "Conclusion",
-    "text": "Conclusion\nThe reliability of fMRI studies remains a critical concern in cognitive neuroscience, but the field has made substantial progress in addressing key challenges. Through careful attention to study design, implementation of robust quality control measures, and adoption of standardized procedures, researchers can enhance the reliability and reproducibility of their findings. As the field continues to evolve, the integration of new technological advances with rigorous methodological practices will be crucial for maintaining and improving the scientific value of fMRI research."
+    "text": "Conclusion\nLa fiabilité des études IRMf reste une préoccupation critique en neurosciences cognitives, mais le domaine a réalisé des progrès importants pour relever les défis clés. Grâce à une attention minutieuse à la conception de l’étude, à la mise en œuvre de mesures de contrôle qualité robustes et à l’adoption de procédures standardisées, les chercheurs peuvent améliorer la fiabilité et la reproductibilité de leurs résultats. À mesure que le domaine continue d’évoluer, l’intégration de nouvelles avancées technologiques avec des pratiques méthodologiques rigoureuses sera cruciale pour maintenir et améliorer la valeur scientifique de la recherche IRMf."
   },
   {
     "objectID": "fmri-question.html#reliability-of-fmri-studies",
@@ -359,9 +359,9 @@
   {
     "objectID": "bci-question.html#introduction",
     "href": "bci-question.html#introduction",
-    "title": "Brain-Computer Interface Technology",
+    "title": "Technologie d’Interface Cerveau-Machine",
     "section": "Introduction",
-    "text": "Introduction\nBrain-Computer Interface (BCI) technology represents a groundbreaking advancement in human-computer interaction, offering new possibilities for direct communication between the brain and external devices. As this field continues to evolve, a critical question emerges: What are the current limitations of non-invasive brain-computer interfaces for communication purposes, and how might these be addressed? This question is particularly relevant as researchers and developers work to make BCI technology more accessible and practical for everyday use.\nThe development of effective non-invasive BCI systems faces numerous challenges, from technical constraints to practical implementation issues. Understanding these limitations is crucial for advancing the field and developing more robust and user-friendly systems that can benefit a wider range of users, particularly those with communication disabilities."
+    "text": "Introduction\nLa technologie d’Interface Cerveau-Machine (ICM) représente une avancée révolutionnaire dans l’interaction homme-machine, offrant de nouvelles possibilités de communication directe entre le cerveau et les dispositifs externes. Alors que ce domaine continue d’évoluer, une question critique émerge : Quelles sont les limitations actuelles des interfaces cerveau-machine non invasives pour la communication, et comment peuvent-elles être abordées ? Cette question est particulièrement pertinente alors que les chercheurs et les développeurs travaillent à rendre la technologie ICM plus accessible et pratique pour une utilisation quotidienne.\nLe développement de systèmes ICM non invasifs efficaces fait face à de nombreux défis, des contraintes techniques aux problèmes d’implémentation pratique. Comprendre ces limitations est crucial pour faire avancer le domaine et développer des solutions plus robustes et conviviales pour les utilisateurs, en particulier ceux ayant des déficiences en matière de communication."
   },
   {
     "objectID": "bci-question.html#current-technology-and-methods",
@@ -401,8 +401,134 @@
   {
     "objectID": "bci-question.html#conclusion",
     "href": "bci-question.html#conclusion",
-    "title": "Brain-Computer Interface Technology",
+    "title": "Technologie d’Interface Cerveau-Machine",
     "section": "Conclusion",
-    "text": "Conclusion\nWhile non-invasive BCI technology shows great promise for communication applications, significant limitations must still be overcome. Technical challenges in signal acquisition and processing, combined with practical implementation issues, continue to constrain the widespread adoption of these systems. However, ongoing research and technological advances suggest that many of these limitations may be addressed through innovative solutions and improved system design."
+    "text": "Conclusion\nBien que la technologie ICM non invasive montre un grand potentiel pour les applications de communication, des limitations importantes doivent encore être surmontées. Les défis techniques dans l’acquisition et le traitement des signaux, combinés aux problèmes d’implémentation pratique, continuent de contraindre l’adoption généralisée de ces systèmes. Cependant, la recherche en cours et les avancées technologiques suggèrent que beaucoup de ces limitations peuvent être résolues grâce à des solutions innovantes et à une conception de système améliorée."
+  },
+  {
+    "objectID": "about.html#thomas-brichart",
+    "href": "about.html#thomas-brichart",
+    "title": "About Me",
+    "section": "",
+    "text": "Email: thomas.brichart@gmail.com\nGitHub: tbrichart\nLinkedIn: Thomas Brichart"
+  },
+  {
+    "objectID": "about.html#my-name",
+    "href": "about.html#my-name",
+    "title": "About Me",
+    "section": "",
+    "text": "Email: my.name@gmail.com\nLinkedIn: My Name"
+  },
+  {
+    "objectID": "index.html#à-propos-de-ce-projet",
+    "href": "index.html#à-propos-de-ce-projet",
+    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "section": "À Propos de ce Projet 🧠",
+    "text": "À Propos de ce Projet 🧠\nCe site web présente mon projet de cours explorant deux questions importantes en neuro-ergonomie. À travers une revue de littérature et une analyse, j’étudie la fiabilité des études IRMf et les limites des ICM non invasives."
+  },
+  {
+    "objectID": "index.html#vue-densemble-du-projet",
+    "href": "index.html#vue-densemble-du-projet",
+    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "section": "Vue d’Ensemble du Projet",
+    "text": "Vue d’Ensemble du Projet\nCe projet vise à :\n\nAnalyser les méthodologies de recherche actuelles\nÉvaluer les limites technologiques\nExaminer les facteurs de fiabilité\nDiscuter les orientations futures de la recherche"
+  },
+  {
+    "objectID": "index.html#informations-sur-le-cours",
+    "href": "index.html#informations-sur-le-cours",
+    "title": "Questions de Recherche en Neuro-Ergonomie",
+    "section": "Informations sur le Cours",
+    "text": "Informations sur le Cours\nCe site web a été créé dans le cadre du [Nom du Cours] à [Nom de l’Université], hiver 2025.\n\nObjectifs du Projet\n\nAnalyse critique de la littérature scientifique\nCompréhension des méthodologies de recherche\nPrésentation claire des résultats\nConclusions basées sur des preuves"
+  },
+  {
+    "objectID": "about.html#mon-nom",
+    "href": "about.html#mon-nom",
+    "title": "À Propos",
+    "section": "",
+    "text": "Email: mon.nom@gmail.com\nLinkedIn: Mon Nom"
+  },
+  {
+    "objectID": "fmri-question.html#fondements-méthodologiques",
+    "href": "fmri-question.html#fondements-méthodologiques",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Fondements Méthodologiques",
+    "text": "Fondements Méthodologiques\nLa base de la recherche IRMf fiable réside dans sa rigueur méthodologique, en commençant par l’acquisition des données. Les protocoles IRMf modernes capturent généralement des volumes cérébraux toutes les 2-3 secondes, avec des résolutions spatiales d’environ 2-3mm³. Ces paramètres représentent un équilibre soigneux entre la précision temporelle et spatiale, tout en tenant compte des contraintes physiologiques du signal BOLD (Blood Oxygen Level Dependent). Une session de balayage typique dure entre 30 et 60 minutes, pendant laquelle le mouvement du participant doit être contrôlé avec une précision submillimétrique – une exigence qui pose des défis techniques et pratiques importants.\nLe pipeline de traitement des données IRMf est complexe et multétape, chaque étape pouvant introduire de la variabilité dans les résultats finaux. Les données brutes subissent plusieurs étapes de prétraitement, notamment la correction du mouvement pour tenir compte du mouvement de la tête du participant, la correction du temps de coupe pour ajuster la nature séquentielle de l’acquisition d’images et la normalisation spatiale pour permettre la comparaison entre les participants. Le choix et l’ordre de ces étapes de prétraitement, ainsi que leurs paramètres spécifiques, peuvent avoir un impact significatif sur les résultats finaux et leur fiabilité.\n\n\n\nUn pipeline de traitement des données IRMf typique, montrant la progression des données brutes à l’analyse statistique finale"
+  },
+  {
+    "objectID": "fmri-question.html#considérations-statistiques-et-défis",
+    "href": "fmri-question.html#considérations-statistiques-et-défis",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Considérations Statistiques et Défis",
+    "text": "Considérations Statistiques et Défis\nL’analyse statistique dans la recherche IRMf présente des défis uniques en raison du problème de comparaisons multiples massives inhérent à l’analyse de centaines de milliers de voxels simultanément. Les meilleures pratiques actuelles recommandent un effectif minimum de 20 participants pour les études de base, bien que ce nombre devrait être substantiellement plus élevé pour les effets plus subtils ou lors de l’étude des différences individuelles. Les tailles d’effet dans la littérature ont souvent été surestimées, en partie en raison du biais de publication et de la tendance à ne rapporter que les résultats significatifs des analyses exploratoires.\nLe domaine a développé des méthodes sophistiquées pour répondre à ces défis, notamment diverses approches de correction des comparaisons multiples. Les taux d’erreur de la famille (FWE) et les taux de découverte fausse (FDR) représentent différentes philosophies pour contrôler les faux positifs, chacune avec ses propres compromis entre la puissance statistique et le contrôle des faux positifs. Le choix entre ces méthodes, ainsi que la sélection des seuils statistiques, peut avoir un impact dramatique sur les résultats de l’étude et leur reproductibilité.\n\n\n\nFlux de travail d’analyse statistique dans la recherche IRMf, illustrant la complexité de la prise en compte des comparaisons multiples et des différentes méthodes de correction"
+  },
+  {
+    "objectID": "fmri-question.html#contrôle-de-qualité-et-défis-techniques",
+    "href": "fmri-question.html#contrôle-de-qualité-et-défis-techniques",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Contrôle de Qualité et Défis Techniques",
+    "text": "Contrôle de Qualité et Défis Techniques\nLa qualité des données IRMf est influencée par de nombreux facteurs techniques qui doivent être soigneusement surveillés et contrôlés. Le signal BOLD lui-même est une mesure indirecte de l’activité neuronale, médiée par des mécanismes complexes de couplage neurovasculaire. Cette relation est encore compliquée par diverses sources de bruit, notamment les signaux physiologiques (comme les cycles cardiaques et respiratoires), les artefacts du scanner et les mouvements des participants.\nLes procédures modernes de contrôle qualité sont devenues de plus en plus sophistiquées, utilisant des métriques telles que le déplacement image par image et le DVARS pour quantifier la qualité des données. Ces mesures aident les chercheurs à identifier les points de données problématiques et à prendre des décisions éclairées concernant l’inclusion et l’exclusion des données. Les évaluations du rapport signal/bruit (SNR) et les calculs du SNR temporel fournissent des informations cruciales sur la qualité et la fiabilité des données, tandis que les algorithmes de détection d’artefacts aident à identifier et corriger divers types de contamination du signal.\n\n\n\nDéfis communs et artefacts dans la recherche IRMf qui doivent être traités par des mesures de contrôle qualité"
+  },
+  {
+    "objectID": "fmri-question.html#reproductibilité-et-meilleures-pratiques",
+    "href": "fmri-question.html#reproductibilité-et-meilleures-pratiques",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Reproductibilité et Meilleures Pratiques",
+    "text": "Reproductibilité et Meilleures Pratiques\nLa reproductibilité des études IRMf peut être quantifiée à l’aide de diverses métriques, notamment les coefficients de corrélation intraclasse (ICC), la fiabilité test-retest et les mesures de fiabilité de la moitié divisée. Ces métriques fournissent des informations importantes sur la stabilité et la fiabilité des mesures IRMf au fil du temps et selon différentes approches d’analyse. Les techniques de validation croisée aident à garantir que les résultats sont robustes et généralisables au-delà de l’échantillon spécifique étudié.\nPour améliorer la reproductibilité, le domaine a développé plusieurs meilleures pratiques. La préinscription des plans d’analyse aide à prévenir le p-hacking et garantit la transparence dans la communication des décisions analytiques. Les pipelines de prétraitement standardisés, tels que fMRIPrep, réduisent la flexibilité analytique et améliorent la cohérence entre les études. L’adoption de formats de données standardisés (comme BIDS) et l’accent croissant sur le partage de données ont rendu plus facile pour les chercheurs de valider et de construire sur les résultats précédents."
+  },
+  {
+    "objectID": "fmri-question.html#directions-futures-et-implications",
+    "href": "fmri-question.html#directions-futures-et-implications",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Directions Futures et Implications",
+    "text": "Directions Futures et Implications\nL’avenir de la recherche IRMf réside dans la résolution des limites actuelles tout en exploitant les avancées technologiques et méthodologiques. Les études de validation multisites deviennent plus courantes, aidant à établir la généralisabilité des résultats à travers différents environnements de balayage. Les approches d’apprentissage automatique offrent de nouvelles façons d’analyser les données IRMf, pouvant potentiellement identifier des modèles que les approches statistiques traditionnelles pourraient manquer. Les procédures de contrôle qualité automatisées sont en cours de développement pour garantir une qualité de données cohérente sur de grandes bases de données.\nLes implications de l’amélioration de la fiabilité des études IRMf s’étendent au-delà du laboratoire. Des études IRMf plus fiables conduiront à une meilleure compréhension du fonctionnement cérébral, à des informations plus précises sur les processus cognitifs et à des applications cliniques plus efficaces. La recherche sur les différences individuelles, qui nécessite des mesures particulièrement robustes et fiables, bénéficiera de ces avancées méthodologiques.\n\n\n\nDirections futures dans la recherche IRMf, mettant en évidence les méthodologies et les avancées technologiques émergentes"
+  },
+  {
+    "objectID": "fmri-question.html#références",
+    "href": "fmri-question.html#références",
+    "title": "Comprendre l’Analyse IRMf",
+    "section": "Références",
+    "text": "Références\n\nSmith et al. (2024). “Fiabilité dans les études IRMf”\nJohnson & Brown (2023). “Puissance statistique en neuroimagerie”\nZhang et al. (2024). “Standardisation des protocoles IRMf”"
+  },
+  {
+    "objectID": "bci-question.html#technologie-actuelle-et-méthodes",
+    "href": "bci-question.html#technologie-actuelle-et-méthodes",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Technologie Actuelle et Méthodes",
+    "text": "Technologie Actuelle et Méthodes\nLe paysage de la technologie ICM non invasive est dominé par plusieurs approches clés, chacune avec ses propres forces et limitations. Les systèmes basés sur l’électroencéphalographie (EEG) restent les plus largement utilisés, offrant un coût relativement faible et une résolution temporelle élevée, tandis que la technologie fNIRS fournit des informations complémentaires sur l’activité cérébrale à travers les réponses hémodynamiques. Ces systèmes reposent sur des approches de traitement du signal de plus en plus sophistiquées et des algorithmes de classification pour interpréter les signaux cérébraux et les convertir en commandes significatives.\nLes composants fondamentaux des systèmes ICM modernes incluent le matériel d’acquisition de signaux, les algorithmes de prétraitement, les méthodes d’extraction de caractéristiques et les systèmes de classification. Chaque composant doit fonctionner en harmonie pour atteindre une communication fiable, tout en maintenant la nature non invasive qui rend ces systèmes accessibles à une population plus large.\n\n\n\nComposants du système ICM montrant les éléments clés des systèmes non invasifs modernes"
+  },
+  {
+    "objectID": "bci-question.html#limitations-techniques-actuelles",
+    "href": "bci-question.html#limitations-techniques-actuelles",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Limitations Techniques Actuelles",
+    "text": "Limitations Techniques Actuelles\nLes ICM non invasives font face à plusieurs limitations techniques importantes qui affectent leur efficacité pour la communication. Le rapport signal-bruit reste un défi persistant, car les méthodes d’enregistrement non invasives doivent détecter les signaux cérébraux à travers plusieurs couches de tissu. La résolution spatiale est limitée par rapport aux méthodes invasives, rendant difficile la localisation et l’isolement précis de l’activité cérébrale pertinente. L’exactitude temporelle et les exigences de formation de l’utilisateur posent également des contraintes importantes sur les performances du système.\nLe traitement des signaux ICM présente son propre ensemble de défis, notamment la suppression des artefacts, l’extraction de caractéristiques et les exigences de traitement en temps réel. Ces obstacles techniques doivent être surmontés tout en maintenant la fiabilité du système et le confort de l’utilisateur.\n\n\n\nVisualisation des défis techniques montrant les principales limitations de la technologie ICM actuelle"
+  },
+  {
+    "objectID": "bci-question.html#mise-en-œuvre-et-considérations-pratiques",
+    "href": "bci-question.html#mise-en-œuvre-et-considérations-pratiques",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Mise en Œuvre et Considérations Pratiques",
+    "text": "Mise en Œuvre et Considérations Pratiques\nLa mise en œuvre pratique des systèmes ICM introduit des défis supplémentaires au-delà des limitations techniques. La fatigue de l’utilisateur est une préoccupation majeure, car maintenir des signaux cérébraux cohérents sur de longues périodes peut être mentalement épuisant. Les interférences environnementales peuvent considérablement affecter la qualité du signal, tandis que les exigences de calibration et la fiabilité du système affectent l’utilisabilité de ces dispositifs dans des contextes réels.\nLe traitement du signal reste au cœur de ces défis pratiques. La nécessité d’une suppression robuste des artefacts, d’une extraction efficace de caractéristiques et d’un traitement précis en temps réel doit être équilibrée avec les ressources informatiques disponibles dans les applications pratiques.\n\n\n\nFlux de traitement du signal ICM montrant la complexité de la gestion des données"
+  },
+  {
+    "objectID": "bci-question.html#résultats-de-recherche-actuels",
+    "href": "bci-question.html#résultats-de-recherche-actuels",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Résultats de Recherche Actuels",
+    "text": "Résultats de Recherche Actuels\nLa recherche sur la technologie ICM non invasive a révélé plusieurs limitations clés qui affectent les performances du système. Les taux de transfert d’information restent limités, les systèmes actuels atteignant des vitesses de communication relativement modestes par rapport aux méthodes d’entrée traditionnelles. La précision varie considérablement selon les utilisateurs, et les exigences substantielles en matière de formation peuvent rendre ces systèmes difficiles à adopter. La sensibilité environnementale continue de poser des défis pour un fonctionnement fiable en dehors des paramètres de laboratoire.\nCes résultats soulignent la nécessité de poursuivre la recherche et le développement dans des domaines clés tels que les techniques avancées de traitement du signal, l’amélioration des interfaces utilisateur et des algorithmes de classification plus robustes. L’intégration d’approches d’apprentissage automatique montre des promesses pour répondre à certaines de ces limitations."
+  },
+  {
+    "objectID": "bci-question.html#directions-futures-et-solutions-potentielles",
+    "href": "bci-question.html#directions-futures-et-solutions-potentielles",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Directions Futures et Solutions Potentielles",
+    "text": "Directions Futures et Solutions Potentielles\nL’avenir de la technologie ICM non invasive réside dans la résolution des limitations actuelles grâce à des approches innovantes et des technologies émergentes. Les techniques avancées de traitement du signal et les systèmes ICM hybrides qui combinent plusieurs modalités d’enregistrement montrent des promesses pour améliorer les performances du système. L’amélioration des interfaces utilisateur et l’intégration d’algorithmes d’apprentissage automatique plus sophistiqués peuvent aider à réduire les exigences de formation et à augmenter la fiabilité du système.\nLe développement de systèmes plus robustes et conviviaux pourrait considérablement élargir les applications des ICM non invasives, en particulier dans les contextes de communication assistée et de réadaptation.\n\n\n\nDéveloppements futurs de l’ICM mettant en évidence les solutions et technologies émergentes"
+  },
+  {
+    "objectID": "bci-question.html#références",
+    "href": "bci-question.html#références",
+    "title": "Technologie d’Interface Cerveau-Machine",
+    "section": "Références",
+    "text": "Références\n\nWilson et al. (2024). “Communication par ICM Non Invasive”\nLee & Garcia (2023). “Traitement du Signal dans les ICM”\nThompson et al. (2024). “Expérience Utilisateur dans les Systèmes ICM”"
   }
 ]
