@@ -115,11 +115,24 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#introduction" id="toc-introduction" class="nav-link active" data-scroll-target="#introduction">Introduction</a></li>
+  <li><a href="#technologie-actuelle-et-méthodes" id="toc-technologie-actuelle-et-méthodes" class="nav-link" data-scroll-target="#technologie-actuelle-et-méthodes">Technologie Actuelle et Méthodes</a></li>
+  <li><a href="#limitations-techniques-actuelles" id="toc-limitations-techniques-actuelles" class="nav-link" data-scroll-target="#limitations-techniques-actuelles">Limitations Techniques Actuelles</a></li>
+  <li><a href="#mise-en-œuvre-et-considérations-pratiques" id="toc-mise-en-œuvre-et-considérations-pratiques" class="nav-link" data-scroll-target="#mise-en-œuvre-et-considérations-pratiques">Mise en Œuvre et Considérations Pratiques</a></li>
+  <li><a href="#résultats-de-recherche-actuels" id="toc-résultats-de-recherche-actuels" class="nav-link" data-scroll-target="#résultats-de-recherche-actuels">Résultats de Recherche Actuels</a></li>
+  <li><a href="#directions-futures-et-solutions-potentielles" id="toc-directions-futures-et-solutions-potentielles" class="nav-link" data-scroll-target="#directions-futures-et-solutions-potentielles">Directions Futures et Solutions Potentielles</a></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a></li>
+  <li><a href="#références" id="toc-références" class="nav-link" data-scroll-target="#références">Références</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -129,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -147,13 +160,12 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="unlisted">Communication par ICM Non Invasive</h1>
 <p>Examen des limitations techniques et pratiques de la technologie actuelle</p>
 </section>
-<div class="content-block">
-<section id="introduction" class="level2">
+<section id="introduction" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="introduction">Introduction</h2>
 <p>La technologie d’Interface Cerveau-Machine (ICM) représente une avancée révolutionnaire dans l’interaction homme-machine, offrant de nouvelles possibilités de communication directe entre le cerveau et les dispositifs externes. Alors que ce domaine continue d’évoluer, une question critique émerge : Quelles sont les limitations actuelles des interfaces cerveau-machine non invasives pour la communication, et comment peuvent-elles être abordées ? Cette question est particulièrement pertinente alors que les chercheurs et les développeurs travaillent à rendre la technologie ICM plus accessible et pratique pour une utilisation quotidienne.</p>
 <p>Le développement de systèmes ICM non invasifs efficaces fait face à de nombreux défis, des contraintes techniques aux problèmes d’implémentation pratique. Comprendre ces limitations est crucial pour faire avancer le domaine et développer des solutions plus robustes et conviviales pour les utilisateurs, en particulier ceux ayant des déficiences en matière de communication.</p>
 </section>
-<section id="technologie-actuelle-et-méthodes" class="level2">
+<section id="technologie-actuelle-et-méthodes" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="technologie-actuelle-et-méthodes">Technologie Actuelle et Méthodes</h2>
 <p>Le paysage de la technologie ICM non invasive est dominé par plusieurs approches clés, chacune avec ses propres forces et limitations. Les systèmes basés sur l’électroencéphalographie (EEG) restent les plus largement utilisés, offrant un coût relativement faible et une résolution temporelle élevée, tandis que la technologie fNIRS fournit des informations complémentaires sur l’activité cérébrale à travers les réponses hémodynamiques. Ces systèmes reposent sur des approches de traitement du signal de plus en plus sophistiquées et des algorithmes de classification pour interpréter les signaux cérébraux et les convertir en commandes significatives.</p>
 <p>Les composants fondamentaux des systèmes ICM modernes incluent le matériel d’acquisition de signaux, les algorithmes de prétraitement, les méthodes d’extraction de caractéristiques et les systèmes de classification. Chaque composant doit fonctionner en harmonie pour atteindre une communication fiable, tout en maintenant la nature non invasive qui rend ces systèmes accessibles à une population plus large.</p>
@@ -164,7 +176,7 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="limitations-techniques-actuelles" class="level2">
+<section id="limitations-techniques-actuelles" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="limitations-techniques-actuelles">Limitations Techniques Actuelles</h2>
 <p>Les ICM non invasives font face à plusieurs limitations techniques importantes qui affectent leur efficacité pour la communication. Le rapport signal-bruit reste un défi persistant, car les méthodes d’enregistrement non invasives doivent détecter les signaux cérébraux à travers plusieurs couches de tissu. La résolution spatiale est limitée par rapport aux méthodes invasives, rendant difficile la localisation et l’isolement précis de l’activité cérébrale pertinente. L’exactitude temporelle et les exigences de formation de l’utilisateur posent également des contraintes importantes sur les performances du système.</p>
 <p>Le traitement des signaux ICM présente son propre ensemble de défis, notamment la suppression des artefacts, l’extraction de caractéristiques et les exigences de traitement en temps réel. Ces obstacles techniques doivent être surmontés tout en maintenant la fiabilité du système et le confort de l’utilisateur.</p>
@@ -175,23 +187,17 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="mise-en-œuvre-et-considérations-pratiques" class="level2">
+<section id="mise-en-œuvre-et-considérations-pratiques" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="mise-en-œuvre-et-considérations-pratiques">Mise en Œuvre et Considérations Pratiques</h2>
 <p>La mise en œuvre pratique des systèmes ICM introduit des défis supplémentaires au-delà des limitations techniques. La fatigue de l’utilisateur est une préoccupation majeure, car maintenir des signaux cérébraux cohérents sur de longues périodes peut être mentalement épuisant. Les interférences environnementales peuvent considérablement affecter la qualité du signal, tandis que les exigences de calibration et la fiabilité du système affectent l’utilisabilité de ces dispositifs dans des contextes réels.</p>
-<p>Le traitement du signal reste au cœur de ces défis pratiques. La nécessité d’une suppression robuste des artefacts, d’une extraction efficace de caractéristiques et d’un traitement précis en temps réel doit être équilibrée avec les ressources informatiques disponibles dans les applications pratiques.</p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/bci-signal.jpg" class="img-fluid figure-img"></p>
-<figcaption>Flux de traitement du signal ICM montrant la complexité de la gestion des données</figcaption>
-</figure>
-</div>
+<p>Le traitement du signal reste au cœur de ces défis pratiques. La nécessité d’une suppression robuste des artefacts, d’une extraction efficace de caractéristiques et d’un traitement précis en temps réel doit être équilibrée avec les ressources informatiques disponibles et les contraintes de temps réel des applications de communication.</p>
 </section>
-<section id="résultats-de-recherche-actuels" class="level2">
+<section id="résultats-de-recherche-actuels" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="résultats-de-recherche-actuels">Résultats de Recherche Actuels</h2>
 <p>La recherche sur la technologie ICM non invasive a révélé plusieurs limitations clés qui affectent les performances du système. Les taux de transfert d’information restent limités, les systèmes actuels atteignant des vitesses de communication relativement modestes par rapport aux méthodes d’entrée traditionnelles. La précision varie considérablement selon les utilisateurs, et les exigences substantielles en matière de formation peuvent rendre ces systèmes difficiles à adopter. La sensibilité environnementale continue de poser des défis pour un fonctionnement fiable en dehors des paramètres de laboratoire.</p>
 <p>Ces résultats soulignent la nécessité de poursuivre la recherche et le développement dans des domaines clés tels que les techniques avancées de traitement du signal, l’amélioration des interfaces utilisateur et des algorithmes de classification plus robustes. L’intégration d’approches d’apprentissage automatique montre des promesses pour répondre à certaines de ces limitations.</p>
 </section>
-<section id="directions-futures-et-solutions-potentielles" class="level2">
+<section id="directions-futures-et-solutions-potentielles" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="directions-futures-et-solutions-potentielles">Directions Futures et Solutions Potentielles</h2>
 <p>L’avenir de la technologie ICM non invasive réside dans la résolution des limitations actuelles grâce à des approches innovantes et des technologies émergentes. Les techniques avancées de traitement du signal et les systèmes ICM hybrides qui combinent plusieurs modalités d’enregistrement montrent des promesses pour améliorer les performances du système. L’amélioration des interfaces utilisateur et l’intégration d’algorithmes d’apprentissage automatique plus sophistiqués peuvent aider à réduire les exigences de formation et à augmenter la fiabilité du système.</p>
 <p>Le développement de systèmes plus robustes et conviviaux pourrait considérablement élargir les applications des ICM non invasives, en particulier dans les contextes de communication assistée et de réadaptation.</p>
@@ -202,21 +208,20 @@ ul.task-list li input[type="checkbox"] {
 </figure>
 </div>
 </section>
-<section id="conclusion" class="level2">
+<section id="conclusion" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
 <p>Bien que la technologie ICM non invasive montre un grand potentiel pour les applications de communication, des limitations importantes doivent encore être surmontées. Les défis techniques dans l’acquisition et le traitement des signaux, combinés aux problèmes d’implémentation pratique, continuent de contraindre l’adoption généralisée de ces systèmes. Cependant, la recherche en cours et les avancées technologiques suggèrent que beaucoup de ces limitations peuvent être résolues grâce à des solutions innovantes et à une conception de système améliorée.</p>
 </section>
-<section id="références" class="level2">
+<section id="références" class="level2 content-block">
 <h2 class="anchored" data-anchor-id="références">Références</h2>
 <ol type="1">
 <li><p>Wilson et al.&nbsp;(2024). “Communication par ICM Non Invasive”</p></li>
 <li><p>Lee &amp; Garcia (2023). “Traitement du Signal dans les ICM”</p></li>
 <li><p>Thompson et al.&nbsp;(2024). “Expérience Utilisateur dans les Systèmes ICM”</p></li>
 </ol>
-
-
 </section>
-</div>
+
+
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

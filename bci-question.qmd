@@ -20,7 +20,9 @@ Examen des limitations techniques et pratiques de la technologie actuelle
 La technologie d'Interface Cerveau-Machine (ICM) représente une avancée révolutionnaire dans l'interaction homme-machine, offrant de nouvelles possibilités de communication directe entre le cerveau et les dispositifs externes. Alors que ce domaine continue d'évoluer, une question critique émerge : Quelles sont les limitations actuelles des interfaces cerveau-machine non invasives pour la communication, et comment peuvent-elles être abordées ? Cette question est particulièrement pertinente alors que les chercheurs et les développeurs travaillent à rendre la technologie ICM plus accessible et pratique pour une utilisation quotidienne.
 
 Le développement de systèmes ICM non invasifs efficaces fait face à de nombreux défis, des contraintes techniques aux problèmes d'implémentation pratique. Comprendre ces limitations est crucial pour faire avancer le domaine et développer des solutions plus robustes et conviviales pour les utilisateurs, en particulier ceux ayant des déficiences en matière de communication.
+:::
 
+::: {.content-block}
 ## Technologie Actuelle et Méthodes
 
 Le paysage de la technologie ICM non invasive est dominé par plusieurs approches clés, chacune avec ses propres forces et limitations. Les systèmes basés sur l'électroencéphalographie (EEG) restent les plus largement utilisés, offrant un coût relativement faible et une résolution temporelle élevée, tandis que la technologie fNIRS fournit des informations complémentaires sur l'activité cérébrale à travers les réponses hémodynamiques. Ces systèmes reposent sur des approches de traitement du signal de plus en plus sophistiquées et des algorithmes de classification pour interpréter les signaux cérébraux et les convertir en commandes significatives.
@@ -28,7 +30,9 @@ Le paysage de la technologie ICM non invasive est dominé par plusieurs approche
 Les composants fondamentaux des systèmes ICM modernes incluent le matériel d'acquisition de signaux, les algorithmes de prétraitement, les méthodes d'extraction de caractéristiques et les systèmes de classification. Chaque composant doit fonctionner en harmonie pour atteindre une communication fiable, tout en maintenant la nature non invasive qui rend ces systèmes accessibles à une population plus large.
 
 ![Composants du système ICM montrant les éléments clés des systèmes non invasifs modernes](images/bci-components.jpg)
+:::
 
+::: {.content-block}
 ## Limitations Techniques Actuelles
 
 Les ICM non invasives font face à plusieurs limitations techniques importantes qui affectent leur efficacité pour la communication. Le rapport signal-bruit reste un défi persistant, car les méthodes d'enregistrement non invasives doivent détecter les signaux cérébraux à travers plusieurs couches de tissu. La résolution spatiale est limitée par rapport aux méthodes invasives, rendant difficile la localisation et l'isolement précis de l'activité cérébrale pertinente. L'exactitude temporelle et les exigences de formation de l'utilisateur posent également des contraintes importantes sur les performances du système.
@@ -36,21 +40,25 @@ Les ICM non invasives font face à plusieurs limitations techniques importantes 
 Le traitement des signaux ICM présente son propre ensemble de défis, notamment la suppression des artefacts, l'extraction de caractéristiques et les exigences de traitement en temps réel. Ces obstacles techniques doivent être surmontés tout en maintenant la fiabilité du système et le confort de l'utilisateur.
 
 ![Visualisation des défis techniques montrant les principales limitations de la technologie ICM actuelle](images/bci-technical.jpg)
+:::
 
+::: {.content-block}
 ## Mise en Œuvre et Considérations Pratiques
 
 La mise en œuvre pratique des systèmes ICM introduit des défis supplémentaires au-delà des limitations techniques. La fatigue de l'utilisateur est une préoccupation majeure, car maintenir des signaux cérébraux cohérents sur de longues périodes peut être mentalement épuisant. Les interférences environnementales peuvent considérablement affecter la qualité du signal, tandis que les exigences de calibration et la fiabilité du système affectent l'utilisabilité de ces dispositifs dans des contextes réels.
 
-Le traitement du signal reste au cœur de ces défis pratiques. La nécessité d'une suppression robuste des artefacts, d'une extraction efficace de caractéristiques et d'un traitement précis en temps réel doit être équilibrée avec les ressources informatiques disponibles dans les applications pratiques.
+Le traitement du signal reste au cœur de ces défis pratiques. La nécessité d'une suppression robuste des artefacts, d'une extraction efficace de caractéristiques et d'un traitement précis en temps réel doit être équilibrée avec les ressources informatiques disponibles et les contraintes de temps réel des applications de communication.
+:::
 
-![Flux de traitement du signal ICM montrant la complexité de la gestion des données](images/bci-signal.jpg)
-
+::: {.content-block}
 ## Résultats de Recherche Actuels
 
 La recherche sur la technologie ICM non invasive a révélé plusieurs limitations clés qui affectent les performances du système. Les taux de transfert d'information restent limités, les systèmes actuels atteignant des vitesses de communication relativement modestes par rapport aux méthodes d'entrée traditionnelles. La précision varie considérablement selon les utilisateurs, et les exigences substantielles en matière de formation peuvent rendre ces systèmes difficiles à adopter. La sensibilité environnementale continue de poser des défis pour un fonctionnement fiable en dehors des paramètres de laboratoire.
 
 Ces résultats soulignent la nécessité de poursuivre la recherche et le développement dans des domaines clés tels que les techniques avancées de traitement du signal, l'amélioration des interfaces utilisateur et des algorithmes de classification plus robustes. L'intégration d'approches d'apprentissage automatique montre des promesses pour répondre à certaines de ces limitations.
+:::
 
+::: {.content-block}
 ## Directions Futures et Solutions Potentielles
 
 L'avenir de la technologie ICM non invasive réside dans la résolution des limitations actuelles grâce à des approches innovantes et des technologies émergentes. Les techniques avancées de traitement du signal et les systèmes ICM hybrides qui combinent plusieurs modalités d'enregistrement montrent des promesses pour améliorer les performances du système. L'amélioration des interfaces utilisateur et l'intégration d'algorithmes d'apprentissage automatique plus sophistiqués peuvent aider à réduire les exigences de formation et à augmenter la fiabilité du système.
@@ -58,11 +66,15 @@ L'avenir de la technologie ICM non invasive réside dans la résolution des limi
 Le développement de systèmes plus robustes et conviviaux pourrait considérablement élargir les applications des ICM non invasives, en particulier dans les contextes de communication assistée et de réadaptation.
 
 ![Développements futurs de l'ICM mettant en évidence les solutions et technologies émergentes](images/bci-future.jpg)
+:::
 
+::: {.content-block}
 ## Conclusion
 
 Bien que la technologie ICM non invasive montre un grand potentiel pour les applications de communication, des limitations importantes doivent encore être surmontées. Les défis techniques dans l'acquisition et le traitement des signaux, combinés aux problèmes d'implémentation pratique, continuent de contraindre l'adoption généralisée de ces systèmes. Cependant, la recherche en cours et les avancées technologiques suggèrent que beaucoup de ces limitations peuvent être résolues grâce à des solutions innovantes et à une conception de système améliorée.
+:::
 
+::: {.content-block}
 ## Références
 
 1. Wilson et al. (2024). "Communication par ICM Non Invasive"
@@ -70,3 +82,4 @@ Bien que la technologie ICM non invasive montre un grand potentiel pour les appl
 2. Lee & Garcia (2023). "Traitement du Signal dans les ICM"
 
 3. Thompson et al. (2024). "Expérience Utilisateur dans les Systèmes ICM"
+:::
